@@ -1,2 +1,0 @@
-#!/bin/bash
-port | uniq -u
